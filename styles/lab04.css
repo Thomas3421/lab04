@@ -1,0 +1,13 @@
+/*
+filename: lab04.css
+author: Thomas Mathew
+created: 26/08/2026
+last modified: 26/08/2026
+description: Styles for lab04.html
+*/
+
+h1 {
+    color: purple;
+    font-size: 2em;
+    font-weight: bold;
+}
