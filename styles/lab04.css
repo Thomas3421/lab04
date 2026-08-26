@@ -11,3 +11,14 @@ h1 {
     font-size: 2em;
     font-weight: bold;
 }
+
+* {
+    font-family: Calibri, sans-serif;
+    color: #2F4F4F;
+}
+
+h2 {
+    color: rgb(0, 128, 128);
+    font-weight: bold;
+    font-size: 1.5em;
+}
