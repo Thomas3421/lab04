@@ -34,3 +34,20 @@ h1, h2, h3 {
 table, th, td {
     border: 1px solid black;
 }
+
+#images {
+    text-align: center;
+}
+
+#heading {
+    color: red;
+}
+
+.special {
+    color: darkorange;
+    font-weight: bold;
+}
+
+.month {
+    text-align: right;
+}
